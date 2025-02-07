@@ -1,7 +1,7 @@
 # IPL-ANALYSIS
 
 ### Project overview 
-
+---
 This project provides an in-depth analysis of the Indian Premier League (IPL) from 2008 to 2024. It explores various performance metrics, including team success rates, individual player statistics, match-winning toss decision, and venue-based performances. The data is visualized to highlight key insights, helping fans, analysts, and cricket enthusiasts understand historical trends and patterns.
 
 ### Data Sources
@@ -36,13 +36,13 @@ In the intitial data preparation phase , we performed the follwing tasks :
 
 ### Results and Finding 
 
-1. Virat Kohli scored the most runs (8014 runs) in IPL .
-2. Yuzvendra Chahal took the most wickets (205 wickets) in IPL.
-3. Over IPL 13.O5K sixs and 29.85K fours were hit.
-4. Mumbai Indians has the most wins (144 matches).
-5. Channai Super Kings and Mumbai Indians have won the most IPL trophies (each 5).
-6. Majority of teams won the match while chosee fileding frist .
-7. Highest times  Player of the won by YK PATHAN (16 times).
+1. Virat Kohli scored the most runs (8014 runs) in IPL 🏏 .
+2. Yuzvendra Chahal took the most wickets (205 wickets) in IPL 🏏.
+3. Over IPL 13.O5K sixs(6️⃣) and 29.85K fours(4️⃣) were hit  and .
+4. Mumbai Indians has the most wins (144 matches)🥇
+5. Channai Super Kings and Mumbai Indians have won the most IPL trophies (each 5) 🏆.
+6. Majority of teams won the match while chosee fileding frist 👏 .
+7. Highest times  Player of the won by YK PATHAN (16 times) 🏆.
 
 ### limitations 
 
