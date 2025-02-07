@@ -53,6 +53,7 @@ I had to replace  NA values with "0" because they would affected the accuracy of
 
 
 
+![IPL Analysis 2008 to 2024](https://github.com/user-attachments/assets/7cdcd2c4-8663-45ab-93c6-e24937644f7c)
 
 
 
