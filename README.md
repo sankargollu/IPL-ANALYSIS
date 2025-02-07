@@ -48,6 +48,12 @@ In the intitial data preparation phase , we performed the follwing tasks :
 
 I had to replace  NA values with "0" because they would affected the accuracy of my conclusions from the analysis .
 
+### visualization
+[IPL Analysis 2008 to 2024.pdf](https://github.com/user-attachments/files/18706041/IPL.Analysis.2008.to.2024.pdf)
+
+
+
+
 
 
   
