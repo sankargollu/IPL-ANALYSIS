@@ -27,7 +27,7 @@ In the intitial data preparation phase , we performed the follwing tasks :
 #### Develop a IPL Dashboard for season 2008 to 2024 to have a detailed insight on below problem statments. 
 
 - Find the title winner,orange cup winner, purple cup winner, tournament 6's and 4's  for the respective seasons on IPL.
-- Develop ILP batting and bowling stats and add filter where user can select the bowler and batsman to see these stats.
+- Develop IPL batting and bowling stats and add filter where user can select the bowler and batsman to see these stats.
 - Winning percent based on the toss decision.
 - Mathches win by venue.
 - Total wins by team in a season .
